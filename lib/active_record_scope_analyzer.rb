@@ -1,4 +1,6 @@
-require "active_record_scope_analyzer/version"
+# frozen_string_literal: true
+
+require 'active_record_scope_analyzer/version'
 
 module ActiveRecordScopeAnalyzer
   class Error < StandardError; end
